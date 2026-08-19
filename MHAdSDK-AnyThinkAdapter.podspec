@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'MaplehazeAd' => 'rd@maplehaze.cn' }
 
-  s.source       = { :git => 'https://github.com/MaplehazeAd/MHAdSDK-TopOnAdapter-Demo.git', :tag => s.version.to_s }
+  s.source       = { :git => 'https://github.com/MaplehazeAd/MHAdSDK-AnyThinkAdapter-Demo.git', :tag => s.version.to_s }
 
   s.platform     = :ios, '13.0'
   s.requires_arc = true
